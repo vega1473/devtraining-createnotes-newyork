@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>case_creation</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-02 10:23:37</sys_created_on>
+        <sys_id>f6d05f5c1b61801072e84375cc4bcbdb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Case_creation</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sys_ui_view_f6d05f5c1b61801072e84375cc4bcbdb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-02 10:23:37</sys_updated_on>
+        <title>Case_creation</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
